@@ -1,3 +1,4 @@
+
 from functools import reduce
 
 print('\nЗадание №5 \n************ reduce *************')

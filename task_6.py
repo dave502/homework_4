@@ -1,3 +1,4 @@
+
 from itertools import cycle, count
 
 print('\nЗадание №6 \n************ итераторы *************')
